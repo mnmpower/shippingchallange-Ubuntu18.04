@@ -1,9 +1,12 @@
-# shippingchallange-Ubuntu18.04
+# shippingchallange-Ubuntu18.04 and Debian9.6.0
 
 Step 1 — Installing Docker:  
-- go to the official website from docker and follow the installation guide  
-- https://docs.docker.com/install/linux/docker-ce/ubuntu/#next-steps  
-    
+go to the official website from docker and follow the installation guide
+- https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository
+
+for dabian go to
+- https://docs.docker.com/install/linux/docker-ce/debian/#set-up-the-repository
+
 Step 2 — Cloning the project:  
     go to the directory where you want to store your project. the git clone will arrive in 1 map.  
 - $ - git clone https://github.com/mnmpower/shippingchallange-Ubuntu18.04.git  
