@@ -42,5 +42,3 @@ pass: R1234-56
 - portainer  
 user: maarten  
 pass: R1234-56  
-
-# shippingchallange-Ubuntu18.04
