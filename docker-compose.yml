@@ -13,7 +13,7 @@ services:
     db:
         image: mysql:5.7
         ports: 
-            - "3307:3307"
+            - "3306:3306"
         environment:
             MYSQL_DATABASE: myDB
             MYSQL_USER: maarten
@@ -29,7 +29,7 @@ services:
         links: 
             - db:db
         ports:
-            - 8050:80
+            - 8002:80
         environment:
             MYSQL_USER: maarten
             MYSQL_PASSWORD: R1234-56
