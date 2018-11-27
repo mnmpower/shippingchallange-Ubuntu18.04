@@ -31,14 +31,14 @@ you should have 4 running containers:
 
 Step 5 — Using the browser  
 Open your brower and go to
-- your.ip.add.ress:8001 to vieuw the Webpages.  
-- your.ip.add.ress:8002 to vieuw the PhpMyAdmin.  
-- your.ip.add.ress:9000 to vieuw portainer.  
+   - your.ip.add.ress:8001 to vieuw the Webpages.
+   - your.ip.add.ress:8002 to vieuw the PhpMyAdmin.
+   - your.ip.add.ress:9000 to vieuw portainer.
 
   Logins:  
 - PhpMyAdmin:  
 user: maarten  
 pass: R1234-56  
-    - portainer  
+- portainer  
 user: maarten  
 pass: R1234-56  
