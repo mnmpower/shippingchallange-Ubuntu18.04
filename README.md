@@ -20,25 +20,25 @@ you should have 5 diffrent repository's:
    - phpmyadmin/phpmyadmin
    - php
 
-Step 4 — Testing if all containers are running
-  $ - sudo docker ps -a
-  
-   you should have 4 running containers:
+Step 4 — Testing if all containers are running  
+- $ - sudo docker ps -a
+
+you should have 4 running containers:
    - shippingchallange-ubuntu1804_www
    - phpmyadmin/phpmyadmin
    - mysql:5.7
    - portainer/portainer
 
 Step 5 — Using the browser  
-Open your brower and go to  
-    - your.ip.add.ress:8001 to vieuw the Webpages.  
-    - your.ip.add.ress:8002 to vieuw the PhpMyAdmin.  
-    - your.ip.add.ress:9000 to vieuw portainer.  
-    
+Open your brower and go to
+- your.ip.add.ress:8001 to vieuw the Webpages.  
+- your.ip.add.ress:8002 to vieuw the PhpMyAdmin.  
+- your.ip.add.ress:9000 to vieuw portainer.  
+
   Logins:  
-    - PhpMyAdmin:  
-      - user: maarten  
-      - pass: R1234-56  
+- PhpMyAdmin:  
+user: maarten  
+pass: R1234-56  
     - portainer  
-      - user: maarten  
-      - pass: R1234-56  
+user: maarten  
+pass: R1234-56  
