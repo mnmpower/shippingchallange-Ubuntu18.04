@@ -45,3 +45,5 @@ pass: R1234-56
 - portainer  
 user: maarten  
 pass: R1234-56  
+
+nota: if you can't login on portainer edit the docker-compose.yaml file with " --no-auth" at the end of the line that starts with command.
