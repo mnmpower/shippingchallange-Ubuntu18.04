@@ -34,9 +34,9 @@ you should have 4 running containers:
 
 Step 5 — Using the browser  
 Open your brower and go to
-   - your.ip.add.ress:8001 to vieuw the Webpages.
-   - your.ip.add.ress:8002 to vieuw the PhpMyAdmin.
-   - your.ip.add.ress:9000 to vieuw portainer.
+   - your.ip.add.ress:8001 to view the Webpages.
+   - your.ip.add.ress:8002 to view the PhpMyAdmin.
+   - your.ip.add.ress:9000 to view portainer.
 
   Logins:  
 - PhpMyAdmin:  
